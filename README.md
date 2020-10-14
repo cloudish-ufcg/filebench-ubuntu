@@ -4,6 +4,8 @@ This is a Docker image of latest version of Ubuntu with the following dependenci
 
 
 - filebench 
+- bison
+- flex
 
 
 #### Build and push the image
