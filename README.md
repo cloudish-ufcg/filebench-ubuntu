@@ -3,7 +3,7 @@
 This is a Docker image of latest version of Ubuntu with the following dependencies:
 
 
-- filebench 
+- filebench (1.5 alpha3)
 - bison
 - flex
 
