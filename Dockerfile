@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER vinicius vinicius.barbosa.silva@ccc.ufcg.edu.br
+MAINTAINER viniciusbs viniciusbs@lsd.ufcg.edu.br
 
 # instal dependencies
 RUN apt-get update \
